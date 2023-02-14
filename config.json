@@ -13,6 +13,7 @@
         "app_id": "USXAJEZKHQ",
         "api_key_search_only": "f27f63b95dbc8ad36bec54e8c34b8550",
         "index_name": "boardgames",
-        "hits_per_page": 100
+        "hits_per_page": 100,
+        "sort_by": "asc(name)"
     }
 }
